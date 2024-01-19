@@ -31,6 +31,8 @@ Turn on notifications for posts, reels, stories. These are easier to send out an
 Join channels for journalists that have them. These are chronological and are less prone to algorithmic sabotage.
 There’s a chance that any of these features can still be manipulated by the platform, so consider also following folks on decentralized platforms like Mastodon or Pixelfed.
 
+## Archive content
+- Some of the content that you come across may be useful to lawyers, historians, and journalists, so it might helpful for you to archive the content. For example, if you come across a prominent person encouraging genocidal activities or war crimes, it may be worth saving a screenshot.  It's best to use an external storage to archieve such content. Remember, vidoes posted on Tik-Tok is what enabled South Africa to build a strong case against Israel. 
 
 ## Make it hard to isolate our voices
 If you're serious about this, and you should be, it means that business cannot go on as usual.
