@@ -33,6 +33,7 @@ There’s a chance that any of these features can still be manipulated by the pl
 
 ## Archive content
 - Some of the content that you come across may be useful to lawyers, historians, and journalists, so it might helpful for you to archive the content. For example, if you come across a prominent person encouraging genocidal activities or war crimes, it may be worth saving a screenshot.  It's best to use an external storage to archive such content. Remember, videos posted on TikTok is what enabled South Africa to build a strong case against Israel. 
+- If you have the time, submit your content to various archiving websites (e.g. https://github.com/TechForPalestine/content-and-talks/blob/main/palestine-content.md) Keep these in mind when looking at content. 
 
 ## Make it hard to isolate our voices
 If you're serious about this, and you should be, it means that business cannot go on as usual.
