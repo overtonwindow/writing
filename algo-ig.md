@@ -33,6 +33,7 @@ There’s a chance that any of these features can still be manipulated by the pl
 
 ## Archive content
 - Some of the content that you come across may be useful to lawyers, historians, and journalists, so it might helpful for you to archive the content. For example, if you come across a prominent person encouraging genocidal activities or war crimes, it may be worth saving a screenshot.  It's best to use an external storage to archive such content. Remember, videos posted on TikTok is what enabled South Africa to build a strong case against Israel. 
+- Record your screen or take a screenshot everytime you see something that is probably going to get taken down. It's our shared responsibility to keep this content alive.
 - If you have the time, submit your content to various archiving websites (e.g. https://github.com/TechForPalestine/content-and-talks/blob/main/palestine-content.md) Keep these in mind when looking at content. 
 
 ## Make it hard to isolate our voices
@@ -44,7 +45,6 @@ Business will not go on as usual, and we need to get used to this.
     - The inverse of this is true: if you see people not talking about Palestine on Palestinian content (e.g. saying that the post has a "great recipe"), don't talk about Palestine. This is people trying to get around censorship and use mainstream signals to boost the content.
 - Don't use a separate account for this. It's important that IG cannot use your behavior to isolate and censor Palestinian content.
 - If you’re reposting content that’s shadowbanned or restricted, record the video/image and post it. Severing that causal link makes it harder for IG to censor you, and they’ll have to do more video processing and manual intervention to review what you’re posting. Of course, give credit where it's due.
-- Record your screen or take a screenshot everytime you see something that is probably going to get taken down. It's our shared responsibility to keep this content alive.
 
 ## More Resources 
 - https://github.com/TechForPalestine/content-and-talks/blob/main/palestine-content.md
